@@ -4,5 +4,5 @@ The script reaches web page "ya.ru", then fills search with input word, and make
 ----
 ### TO RUN IT USE: <br>
 • Install Selenium using - # pip install selenium <br>
-• Install driver using - pip install chromedriver-py #If you're using chrome browser <br>
-• 
+• Install driver using - pip install chromedriver-py (If you're using chrome browser) <br>
+• With any preferred compiler run "request_to_ya.py"
